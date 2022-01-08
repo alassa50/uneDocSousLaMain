@@ -11,14 +11,14 @@
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:ns1="http://sozi.baierouge.fr"
     id="svg1"
-    sodipodi:docname="008_presentation_document.svg"
+    sodipodi:docname="text_right.svg"
     viewBox="0 0 60 60"
     sodipodi:version="0.32"
     version="1.0"
     y="0"
     x="0"
     inkscape:version="0.38.1"
-    sodipodi:docbase="/home/danny/flat/scalable/apps"
+    sodipodi:docbase="/home/danny/flat/scalable/actions"
   >
   <sodipodi:namedview
       id="base"
@@ -26,91 +26,49 @@
       inkscape:pageshadow="2"
       inkscape:window-width="1016"
       pagecolor="#ffffff"
-      snaptoguides="true"
       inkscape:zoom="6.9465337"
       inkscape:window-x="0"
       borderopacity="1.0"
-      inkscape:cx="37.697545"
-      inkscape:cy="36.490183"
+      inkscape:cx="33.984503"
+      inkscape:cy="21.891029"
       inkscape:window-y="0"
       inkscape:window-height="685"
       inkscape:pageopacity="0.0"
-      showguides="true"
   />
   <rect
       id="rect812"
       style="stroke-linejoin:round;fill-rule:evenodd;stroke:#22a7f0;stroke-width:3.125;fill:#ffffff"
       rx="2"
+      height="50.385"
       width="50.745"
       sodipodi:stroke-cmyk="(0 0 0 0.8)"
       y="5.1165"
       x="4.6786"
-      height="50.385"
-      sodipodi:fill-cmyk="(0 0 0 0.298039)"
   />
-  <g
-      id="g1055"
-    >
-    <path
-        id="path692"
-        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#22a7f0;stroke-linecap:round;stroke-width:2.3474;fill:#ffffff"
-        transform="matrix(.79877 0 0 .79877 18.047 -16.328)"
-        d="m9.9062 49.226c-3.0084 1.602-4.9621 4.639-6.25 7.907h22.782c-1.182-3.189-2.991-6.194-5.75-7.907-3.103-0.135-7.005 0-10.782 0z"
-    />
-    <path
-        id="path716"
-        sodipodi:rx="12.32629108"
-        sodipodi:ry="12.32629108"
-        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#22a7f0;stroke-linecap:round;stroke-width:3.0211;fill:#ffffff"
-        sodipodi:type="arc"
-        d="m31.85 22.301a12.326 12.326 0 1 0 -24.652 0 12.326 12.326 0 1 0 24.652 0h-12.326z"
-        transform="matrix(.62064 0 0 .62064 17.702 3.5545)"
-        sodipodi:cy="22.30134201"
-        sodipodi:cx="19.52412605"
-        sodipodi:stroke-cmyk="(0 0 0 0.8)"
-    />
-  </g
-  >
   <path
-      id="path699"
-      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#22a7f0;stroke-linecap:round;stroke-width:3.3077;fill:#ffffff"
-      transform="matrix(.75580 0 0 .75580 8.0098 6.9526)"
-      d="m10.406 32c-1.1078 0-1.9998 0.892-1.9998 2v23.969h41.969v-23.969c0-1.108-0.892-2-2-2h-37.969z"
+      id="path813"
+      style="stroke-linejoin:round;stroke:#22a7f0;stroke-linecap:round;stroke-width:3.125;fill:none"
+      d="m47.849 12.881h-30.6"
       sodipodi:stroke-cmyk="(0 0 0 0.8)"
   />
   <path
-      id="path700"
-      style="stroke-linejoin:round;stroke:#22a7f0;stroke-linecap:round;stroke-width:1.6539;fill:none"
-      d="m18.832 34.806l-12.724-17.559 7.125-3.563"
-      sodipodi:nodetypes="ccc"
-      transform="matrix(.75580 0 0 .75580 7.4328 6.9526)"
+      id="path814"
+      style="stroke-linejoin:round;stroke:#22a7f0;stroke-linecap:round;stroke-width:3.125;fill:none"
+      d="m47.467 48.081h-15.044"
       sodipodi:stroke-cmyk="(0 0 0 0.8)"
   />
   <path
-      id="path701"
-      sodipodi:rx="3.05378246"
-      sodipodi:ry="3.05378246"
-      style="fill-rule:evenodd;stroke:#22a7f0;stroke-width:1.6539;fill:#ffffff"
-      sodipodi:type="arc"
-      d="m15.778 13.684a3.0538 3.0538 0 1 0 -6.1077 0 3.0538 3.0538 0 1 0 6.1077 0h-3.054z"
-      transform="matrix(.75580 0 0 .75580 7.4328 6.9526)"
-      sodipodi:cy="13.68429852"
-      sodipodi:cx="12.72409439"
+      id="path815"
+      style="stroke-linejoin:round;stroke:#22a7f0;stroke-linecap:round;stroke-width:3.125;fill:none"
+      d="m47.849 36.957h-30.6"
       sodipodi:stroke-cmyk="(0 0 0 0.8)"
   />
-  <rect
-      id="rect682"
-      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#22a7f0;stroke-width:3.8787;fill:#ffffff"
-      rx="3"
-      transform="matrix(.75580 0 0 .54968 8.0098 12.204)"
-      height="8.3979"
-      width="48.861"
+  <path
+      id="path816"
+      style="stroke-linejoin:round;stroke:#22a7f0;stroke-linecap:round;stroke-width:3.125;fill:none"
+      d="m47.467 25.372h-15.044"
       sodipodi:stroke-cmyk="(0 0 0 0.8)"
-      y="29.208"
-      x="4.8352"
   />
-
-  
   <metadata
     >
     <rdf:RDF
@@ -139,16 +97,16 @@
         </dc:publisher
         >
         <dc:title
-          >ft008 presentation document</dc:title
+          >fttext right</dc:title
         >
         <dc:date
-          >2011-01-31T02:11:42</dc:date
+          >2011-01-31T02:06:50</dc:date
         >
         <dc:description
           >Originally uploaded by Danny Allen for OCAL 0.18 this icon is part of the flat theme</dc:description
         >
         <dc:source
-          >https://openclipart.org/detail/114955/ft008-presentation-document-by-anonymous</dc:source
+          >https://openclipart.org/detail/114547/fttext-right-by-anonymous</dc:source
         >
         <dc:creator
           >

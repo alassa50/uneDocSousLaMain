@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkune_doc_sous_la_main=self.webpackChunkune_doc_sous_la_main||[]).push([[712],{4404:function(a){a.exports=JSON.parse('{"allTagsPath":"/uneDocSousLaMain/blog/tags","slug":"/uneDocSousLaMain/blog/tags/facebook","name":"facebook","count":1,"permalink":"/uneDocSousLaMain/blog/tags/facebook"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkune_doc_sous_la_main=self.webpackChunkune_doc_sous_la_main||[]).push([[999],{8387:function(e){e.exports=JSON.parse('{"permalink":"/uneDocSousLaMain/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

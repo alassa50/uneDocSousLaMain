@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alassa50.github.io/uneDocSousLaMain/blog</id>
     <title>Une Doc Sous La Main Blog</title>
-    <updated>2022-02-05T00:00:00.000Z</updated>
+    <updated>2022-12-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alassa50.github.io/uneDocSousLaMain/blog"/>
     <subtitle>Une Doc Sous La Main Blog</subtitle>
     <icon>https://alassa50.github.io/uneDocSousLaMain/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mise à jour du site suite]]></title>
+        <id>majsuite</id>
+        <link href="https://alassa50.github.io/uneDocSousLaMain/blog/majsuite"/>
+        <updated>2022-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[oulala ! j'ai tout revu, relu, j'ai corrigé 2,3 choses mais rien de significatif.]]></summary>
+        <content type="html"><![CDATA[<p>oulala ! j'ai tout revu, relu, j'ai corrigé 2,3 choses mais rien de significatif.
+Et là au détour d'une lecture d'un stackoverflow, je vois un exemple d'index avec slug: / à positionner.
+cf la doc : <a href="https://docusaurus.io/docs/docs-introduction/#home-page-docs" target="_blank" rel="noopener noreferrer">https://docusaurus.io/docs/docs-introduction/#home-page-docs</a>
+et ça marche ! ouf ! 🎉</p><p><img loading="lazy" alt="Depart" src="/uneDocSousLaMain/assets/images/low-angle-smiley-women-with-ball-e7760b38eac3c136f71b2de5bb4873c0.jpg" width="480" height="320" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Alexandre Lassalle</name>
+            <uri>https://github.com/alassa50</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="github pages" term="github pages"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mise à jour du site]]></title>
+        <id>maj</id>
+        <link href="https://alassa50.github.io/uneDocSousLaMain/blog/maj"/>
+        <updated>2022-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hop, aprés 3000 sujets, je reviens enfin sur ce code docs blogs]]></summary>
+        <content type="html"><![CDATA[<p>Hop, aprés 3000 sujets, je reviens enfin sur ce code docs blogs</p><p>La mise à jour de docusorus prend un peu de temps même si ce n'est pas trés compliqué.
+Est-ce mon pc perso qui n'est pas trés puissant ? hum, surement moins que mon pc portable.
+J'ai ajouté pas mal de docs, parceque je ne savais pas trop où les mettre en fait ^^
+j'ai des soucis avec l'application car elle me dit que des des liens morts... surement des copier coller en trop :-p</p><p><img loading="lazy" alt="Depart" src="/uneDocSousLaMain/assets/images/young-man-runner-tying-shoelaces-b8b31a10400d5406ad7317b412c3a39e.jpg" width="480" height="320" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Alexandre Lassalle</name>
+            <uri>https://github.com/alassa50</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="github pages" term="github pages"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bienvenue à toi !]]></title>
         <id>bienvenue</id>
@@ -14,7 +50,7 @@
         <updated>2022-02-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Premier article, toute une histoire ! Comment où quoi quand ? des questions auxquelles j'aimerais avoir les réponses pour faire ce blog à la manière d'un tech of course !]]></summary>
         <content type="html"><![CDATA[<p>Premier article, toute une histoire ! Comment où quoi quand ? des questions auxquelles j'aimerais avoir les réponses pour faire ce blog à la manière d'un tech of course ! </p><p>J'aurais pu prendre un blob direct et ne pas m'embêter avec de la technique, mais bon le tech en moi a été le plus fort ^^</p><p>Ce sera avec docusaurus que je vais réaliser ce blog avec un hébergement via github pages
-C'est parti !!! il faut écrire maintenant !</p><p><img alt="Docusaurus" src="/uneDocSousLaMain/assets/images/athlete-gc2b1018bd_640-0f79f156bebbb5f7d45097d12a065e77.jpg" width="640" height="426"></p>]]></content>
+C'est parti !!! il faut écrire maintenant !</p><p><img loading="lazy" alt="Depart" src="/uneDocSousLaMain/assets/images/athlete-gc2b1018bd_640-0f79f156bebbb5f7d45097d12a065e77.jpg" width="640" height="426" class="img_ev3q"></p>]]></content>
         <author>
             <name>Alexandre Lassalle</name>
             <uri>https://github.com/alassa50</uri>

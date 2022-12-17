@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkune_doc_sous_la_main=self.webpackChunkune_doc_sous_la_main||[]).push([[538],{6693:function(a){a.exports=JSON.parse('{"allTagsPath":"/uneDocSousLaMain/blog/tags","slug":"/uneDocSousLaMain/blog/tags/github-pages","name":"github pages","count":1,"permalink":"/uneDocSousLaMain/blog/tags/github-pages"}')}}]);

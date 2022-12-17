@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkune_doc_sous_la_main=self.webpackChunkune_doc_sous_la_main||[]).push([[9063],{4570:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/uneDocSousLaMain/blog/tags/hello","allTagsPath":"/uneDocSousLaMain/blog/tags","count":3}')}}]);

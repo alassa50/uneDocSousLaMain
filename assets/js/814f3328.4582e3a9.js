@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkune_doc_sous_la_main=self.webpackChunkune_doc_sous_la_main||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bienvenue \xe0 toi !","permalink":"/uneDocSousLaMain/blog/bienvenue"}]}')}}]);

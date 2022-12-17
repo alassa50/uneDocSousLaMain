@@ -4,9 +4,38 @@
         <title>Une Doc Sous La Main Blog</title>
         <link>https://alassa50.github.io/uneDocSousLaMain/blog</link>
         <description>Une Doc Sous La Main Blog</description>
-        <lastBuildDate>Sat, 05 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <language>fr</language>
+        <item>
+            <title><![CDATA[Mise à jour du site suite]]></title>
+            <link>https://alassa50.github.io/uneDocSousLaMain/blog/majsuite</link>
+            <guid>majsuite</guid>
+            <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[oulala ! j'ai tout revu, relu, j'ai corrigé 2,3 choses mais rien de significatif.]]></description>
+            <content:encoded><![CDATA[<p>oulala ! j'ai tout revu, relu, j'ai corrigé 2,3 choses mais rien de significatif.
+Et là au détour d'une lecture d'un stackoverflow, je vois un exemple d'index avec slug: / à positionner.
+cf la doc : <a href="https://docusaurus.io/docs/docs-introduction/#home-page-docs" target="_blank" rel="noopener noreferrer">https://docusaurus.io/docs/docs-introduction/#home-page-docs</a>
+et ça marche ! ouf ! 🎉</p><p><img loading="lazy" alt="Depart" src="/uneDocSousLaMain/assets/images/low-angle-smiley-women-with-ball-e7760b38eac3c136f71b2de5bb4873c0.jpg" width="480" height="320" class="img_ev3q"></p>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus</category>
+            <category>github pages</category>
+        </item>
+        <item>
+            <title><![CDATA[Mise à jour du site]]></title>
+            <link>https://alassa50.github.io/uneDocSousLaMain/blog/maj</link>
+            <guid>maj</guid>
+            <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hop, aprés 3000 sujets, je reviens enfin sur ce code docs blogs]]></description>
+            <content:encoded><![CDATA[<p>Hop, aprés 3000 sujets, je reviens enfin sur ce code docs blogs</p><p>La mise à jour de docusorus prend un peu de temps même si ce n'est pas trés compliqué.
+Est-ce mon pc perso qui n'est pas trés puissant ? hum, surement moins que mon pc portable.
+J'ai ajouté pas mal de docs, parceque je ne savais pas trop où les mettre en fait ^^
+j'ai des soucis avec l'application car elle me dit que des des liens morts... surement des copier coller en trop :-p</p><p><img loading="lazy" alt="Depart" src="/uneDocSousLaMain/assets/images/young-man-runner-tying-shoelaces-b8b31a10400d5406ad7317b412c3a39e.jpg" width="480" height="320" class="img_ev3q"></p>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus</category>
+            <category>github pages</category>
+        </item>
         <item>
             <title><![CDATA[Bienvenue à toi !]]></title>
             <link>https://alassa50.github.io/uneDocSousLaMain/blog/bienvenue</link>
@@ -14,7 +43,7 @@
             <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Premier article, toute une histoire ! Comment où quoi quand ? des questions auxquelles j'aimerais avoir les réponses pour faire ce blog à la manière d'un tech of course !]]></description>
             <content:encoded><![CDATA[<p>Premier article, toute une histoire ! Comment où quoi quand ? des questions auxquelles j'aimerais avoir les réponses pour faire ce blog à la manière d'un tech of course ! </p><p>J'aurais pu prendre un blob direct et ne pas m'embêter avec de la technique, mais bon le tech en moi a été le plus fort ^^</p><p>Ce sera avec docusaurus que je vais réaliser ce blog avec un hébergement via github pages
-C'est parti !!! il faut écrire maintenant !</p><p><img alt="Docusaurus" src="/uneDocSousLaMain/assets/images/athlete-gc2b1018bd_640-0f79f156bebbb5f7d45097d12a065e77.jpg" width="640" height="426"></p>]]></content:encoded>
+C'est parti !!! il faut écrire maintenant !</p><p><img loading="lazy" alt="Depart" src="/uneDocSousLaMain/assets/images/athlete-gc2b1018bd_640-0f79f156bebbb5f7d45097d12a065e77.jpg" width="640" height="426" class="img_ev3q"></p>]]></content:encoded>
             <category>hello</category>
             <category>docusaurus</category>
             <category>github pages</category>
